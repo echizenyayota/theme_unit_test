@@ -1,0 +1,3 @@
+[28-Mar-2017 07:48:31 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpress/wp-admin/includes/dashboard.php on line 1227
+[28-Mar-2017 07:49:23 UTC] PHP Notice:  Undefined index: pickup in /var/www/wordpress/wp-content/themes/mytheme/sidebar.php on line 10
+[28-Mar-2017 07:49:46 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpress/wp-admin/includes/dashboard.php on line 1227
